@@ -29,12 +29,6 @@ I, however, did not have time to implement the splitting in my explicit because 
 The advantage is that it is much faster than explicit.
 The disadvantage is that it could coalesce too much. 
 
-
-Anecdote
-I started this within 24 hours before it is due aka Saturday 3 AM.
-
-
-
 Tell us about your quarter in CS107!
 -----------------------------------
 
